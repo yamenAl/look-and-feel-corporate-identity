@@ -18,8 +18,8 @@ Er worden verschillende workshops aangeboden:
 - [Sprint planning](sprint-planning.md)
 - [Styleguide](styleguide.md)
 - [Stylesheet](stylesheet.md)
-- [Typografie en EM](typografie-en-em)
-- [Formulieren](formulieren)
+- [Typografie en EM](typografie-en-em.md)
+- [Formulieren](formulieren.md)
 
 
 ### Aanpak
