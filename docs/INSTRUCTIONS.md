@@ -7,13 +7,16 @@ Deze leertaak hoort bij sprint 4 Look and Feel. Dit is een opdracht die je indiv
 
 ## Doel van deze opdracht
 
-Je leert hoe je een styleguide kan ontwerpen, maken en gebruiken voor een website van een opdrachtgever.
+Je leert hoe je een huisstijl kan toepassen en hoe je een styleguide kan ontwerpen, maken en gebruiken.
+
 
 ## Werkwijze
 
-Deze leertaak wordt behandeld in Sprint 4.
+Deze leertaak wordt behandeld in Sprint 4. 
 
-Er worden verschillende workshops aangeboden:
+Nadat je een sprint planning hebt gedaan ga je deze sprint met de studenten die dezelfde opdracht hebben een Styleguide samenstellen, met als doel dat jullie een stylesheet gaan maken op basis van de huisstijl die jullie allemaal gaan gebruiken in je individuele project.
+
+Deze sprint worden verschillende workshops aangeboden:
 
 - [Sprint planning](sprint-planning.md)
 - [Styleguide](styleguide.md)
@@ -22,20 +25,12 @@ Er worden verschillende workshops aangeboden:
 - [Formulieren](formulieren)
 
 
-### Aanpak
-1. Fork deze leertaak.
-2. Kies een user story uit de backlog van het project waar je aan gaat werken, kopieer/plak de user story naar de Wiki van jouw repository.
-4. Gebruik voor de leertaak de _living styleguide_ die je met een team hebt gemaakt voor het toepassen van de huisstijl.
-5. Maak code afspraken met je team en gebruik gestructureerde CSS met custom properties en conventies.
-6. Documenteer je proces a.h.v de development life cycle.
-7. En schrijf een goede readme voor de opdrachtgever.
-
 ## Definition of done
 
 Deze opdracht is done als:
 
-- [ ] je hebt gewerkt volgens de verschillende fases van de development-lifecycle
-- [ ] de door jou gemaakte onderdelen voldoen aantoonbaar aan de huisstijl van de opdrachtgever
-- [ ] de CSS is gestructureerd en heeft duidelijke conventies
-- [ ] je hebt je werk gedocumenteerd in de Readme en Wiki (met de user story, schetsen, code voorbeelden en uitleg)
-- [ ] de website op Github staat en een live url heeft
+- [ ] De website staat op GitHub en heeft een live url
+- [ ] Jouw website maakt gebruik van een stijlesheet uit de stylguide
+- [ ] Jouw website voldoet aan de huisstijl van de opdrachtgever
+- [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Log
+- [ ] Je hebt feedback gekregen van de opdrachtgever tijdens de Sprint review en de feedback gedocumenteerd
