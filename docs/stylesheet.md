@@ -2,38 +2,39 @@
 
 ## Stylesheet
 
-Pas custom properties toe en breng structuur aan in een CSS file.
+Je hebt in Figma een styleguide gemaakt, nu ga je een gestructureerd CSS file maken met als doel dat jullie één stylesheet kunnen gebruiken in je individuele project.
+
 
 <!-- 
-deeltaken: [Custom properties](https://github.com/fdnd-task/look-and-feel-custom-properties) 
+Deze teksten komen o.a. uit de deeltaak [Custom properties](https://github.com/fdnd-task/look-and-feel-custom-properties) 
+Dit jaar gaan we ons meer richten op het maken van 1 stylesheet dat de studenten kunnen gebruiken voor hun eigen project. 
+
+Workshop stylesheets for styleguides: over structuur aanbrengen in HTML en CSS, classes en custom properties
+
+In Figma staan 8 artboards met een uitwerken van onderdelen op basis van de huisstijl van de opdracht
+Studenten gaan zelf een stylesheet maken. Deze komt op 1 plek te staan. 
+Bijhordende HTML klaarzetten. In de leertaak? Styleguide.html. Of in een aparte repo waar ze allemaal in gaan werken?
 
 -->
 
 
-## Doel van deze opdracht
+## Aanpak
 
-Je leert wat custom properties zijn en hoe je ze kan gebruiken voor slimme, consistente en beter gestructureerde CSS. 
+Op het whiteboard gezamenlijk een breakdown maken voor de verschillende componenten. form, typo, kleur, afbeeldingen, ....
 
-## Werkwijze
+Hoe gaan de componenten heten? 
 
-Deze opdracht gaat over de [analyse-](#analyseren) en [ontwerp/bouwfase](#ontwerpenbouwen) van de DLC.
+Verdeel de onderdelen van de styleguide en werk ze allemaal uit in een gezemenlijke repo
 
-Je hebt een eerste opzet van de Living Styleguide gemaakt en nu ga je een gestructureerd CSS file maken met custom properties, structuur en conventies.
-
-### Analyseren
-
-Bekijk welke elementen uit de living styleguide in CSS geschreven kunnen worden met custom properties. Denk bijvoorbeeld aan kleuren, font-sizes, borders, breedtes en/of hoogtes van elementen.  Als waardes vaker voorkomen, kun je custom properties gebruiken. 
 
 ### Ontwerpen/bouwen
 
-Fork deze deeltaak. 
+Hoe kan je de CSS structureren met classes? Custom properties? 
+Bekijk welke elementen uit de living styleguide in CSS geschreven kunnen worden met custom properties. Denk bijvoorbeeld aan kleuren, font-sizes, borders, breedtes en/of hoogtes van elementen.  Als waardes vaker voorkomen, kun je custom properties gebruiken. 
 
-Maak voor een aantal huisstijl elementen de HTML en CSS. 
-Structureer de CSS met custom properties, pas een goede structuur toe en gebruik conventies zoals DRY, leesbaarheid van de code en naamgeving.
+Structureer de CSS met custom properties en classes, pas een goede structuur toe en gebruik conventies zoals DRY, leesbaarheid van de code en naamgeving.
 
-Teken zo nodig een breakdown-schets om duidelijk te krijgen wat je gaat coderen. Teken de elementen die je gaat maken, maak aantekeningen voor de HTML, de CSS en welke Custom properties je gaat toepassen. Gebruik de Living Styleguide met code voorbeelden...
-
-Beschrijf in de wiki van de leertaak welke structuur jij toepast in jouw CSS bestand; leg de custom properties uit die je hebt gebruikt en welke principes je hebt toegpast om de CSS te structureren. 
+Teken een breakdown-schets om duidelijk te krijgen wat je gaat coderen. Teken de elementen die je gaat maken, maak aantekeningen voor de HTML, de CSS en welke Custom properties je gaat toepassen. Gebruik de Living Styleguide met code voorbeelden...
 
 #### Voor gevorderden
 
@@ -43,6 +44,7 @@ Als je al vaker met custom properties hebt gewerkt, lees dan het artikel [A comp
 - Custom properties en JavaScript
 - ...
 
+
 ## Bronnen
 
 - [A complete guide to Custom Properties](https://css-tricks.com/a-complete-guide-to-custom-properties/)
@@ -50,9 +52,12 @@ Als je al vaker met custom properties hebt gewerkt, lees dan het artikel [A comp
 <!-- - [Using CSS custom properties like this is a waste](https://www.youtube.com/watch?v=_2LwjfYc1x8)-->
 <!-- - [Basis voorbeeld template HTML & CSS structuur](https://codepen.io/joostf/pen/xEpmLx) -->
 
+
+<!-- 
 ## Definition of done
 
 Deze opdracht is done als:
 
 - [ ] je hebt custom properties gebruikt en in de wiki uitgelegd hoe jouw code werkt
-- [ ] je hebt een duidelijke structuur toegepast in jouw CSS bestand(en) en dit gedocumenteerd in de wiki
+- [ ] je hebt een duidelijke structuur toegepast in jouw CSS bestand(en) en dit gedocumenteerd in de wiki 
+-->
