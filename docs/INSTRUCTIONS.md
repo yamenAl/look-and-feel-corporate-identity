@@ -14,7 +14,7 @@ Je leert hoe je een huisstijl kan toepassen en hoe je een styleguide kan ontwerp
 
 Deze leertaak wordt behandeld in Sprint 4. 
 
-Nadat je een sprint planning hebt gedaan ga je deze sprint met de studenten die dezelfde opdracht hebben een Styleguide samenstellen, met als doel dat jullie een stylesheet gaan maken op basis van de huisstijl die jullie allemaal gaan gebruiken in je individuele project.
+Nadat je een sprint planning hebt gedaan ga je deze sprint met de studenten die dezelfde opdracht hebben een styleguide samenstellen, met als doel dat jullie een stylesheet gaan maken op basis van de huisstijl die jullie allemaal gaan gebruiken in je individuele project.
 
 Deze sprint worden verschillende workshops aangeboden:
 
