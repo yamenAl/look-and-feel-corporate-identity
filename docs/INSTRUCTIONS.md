@@ -20,9 +20,9 @@ Deze sprint worden verschillende workshops aangeboden:
 
 - [Sprint planning](sprint-planning.md)
 - [Styleguide](styleguide.md)
-- [Stylesheet](styleshoot.md)
-- [Typografie en EM](typografie-en-em)
-- [Formulieren](formulieren)
+- [Stylesheet](stylesheet.md)
+- [Typografie en EM](typografie-en-em.md)
+- [Formulieren](formulieren.md)
 
 
 ## Definition of done
