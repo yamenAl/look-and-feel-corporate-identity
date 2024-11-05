@@ -13,7 +13,7 @@ Workshop stylesheets for styleguides: over structuur aanbrengen in HTML en CSS, 
 
 In Figma staan 8 artboards met een uitwerken van onderdelen op basis van de huisstijl van de opdracht
 Studenten gaan zelf een stylesheet maken. Deze komt op 1 plek te staan. 
-Bijhordende HTML klaarzetten. In de leertaak? Styleguide.html. Of in een aparte repo waar ze allemaal in gaan werken?
+Bijhorende HTML klaarzetten. In de leertaak? Styleguide.html. Of in een aparte repo waar ze allemaal in gaan werken?
 
 -->
 
@@ -24,7 +24,7 @@ Op het whiteboard gezamenlijk een breakdown maken voor de verschillende componen
 
 Hoe gaan de componenten heten? 
 
-Verdeel de onderdelen van de styleguide en werk ze allemaal uit in een gezemenlijke repo
+Verdeel de onderdelen van de styleguide en werk ze allemaal uit in een gezamenlijke repo
 
 
 ### Ontwerpen/bouwen
