@@ -54,6 +54,39 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
  3. Neem screenshots van alle huisstijl onderdelen die in gebruik zijn en verzamel ze in de juiste categorieen. Jullie voeren de analyse uit op de oorspronkelijke huisstijl en alle gemaakte projecten voor de opdrachtgever.
  4. Laat als groep de interface inventory zien aan je ~~opdrachtgever~~ docent.
 
+
+#### interface inventory template
+
+
+- Typography
+    - Headings: headings, titels, subtitles, ...
+    - Text elements: paragraphs, blockquotes, ...
+    - Lists: bulleted, numbered, definition, ...
+- Images
+    - Logo's
+    - Icons
+    - Content images: different content images with borders, white space, ...
+    - Image with captions
+- Media
+    - Video player
+    - Audio player
+    - Slideshow players
+- Tables 
+- Buttons
+- Forms
+    - Text inputs: text, email, url, password, ...
+    - Select menu's
+    - Radio/Checkbox Inputs
+- Navigation
+    - Primary Navigation
+    - Tabs
+    - Breadcrumbs
+- Components
+    - Carousels
+    - Accordions
+- ...
+
+
 ### Bronnen
 
 - [Brad Frost, Interface Inventory, 2013](https://bradfrost.com/blog/post/interface-inventory/)
