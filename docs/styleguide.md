@@ -51,9 +51,11 @@ Een styleguide is essentieel voor het begrijpen en toepassen van een huisstijl. 
 
 ## Aanpak
 
-In de analysefase breng je in kaart hoe het zit met de huidige uitingen van de opdrachtgever en welke huisstijl onderdelen in gebruik zijn. Het resultaat is een *interface inventory*. 
+In de analysefase breng je in kaart hoe het zit met de huidige uitingen van de opdrachtgever en welke huisstijl onderdelen in gebruik zijn. 
+Het resultaat is een *interface inventory*. 
 
 Daarna gaan jullie de styleguide samenstellen door te bespreken hoe de huisstijl onderdelen er uit zien, en hoe ze in HTML en CSS gemaakt moeten worden.
+Tot slot gaan jullie een gedeelde stylsheet maken die jullie kunnen gaan gebruiken in je eigen project. 
 
 ### Interface inventory
 
@@ -101,20 +103,31 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
 - ...
 -->
 
-## Styleguide samenstellen
+### Styleguide samenstellen
+
+Nu je een inventarisatie hebt gemaakt van alle onderdelen kunnen jullie een styleguide maken. 
+Bepaal voor de basis elementen kleur, typografie en formulie onderdelen hoe die eruit moeten zien en maak daar een gezamenlijke stylesheet voor. 
 
 1. Bespreek het verzamelde materiaal uit de _interface inventory_ en onderzoek of je overeenkomsten kunt ontdekken tussen de verschillende huisstijl onderdelen.
-2. Ontwerp en maak voor alle huisstijl onderdelen een voorbeeld in HTML en CSS
-    - Gebruik toegankelijke en semantische HTML, overleg met het team welke HTML elementen passend zijn
-    - Definieer de CSS voor de huisstijl onderdelen, overleg met het team hoe jullie de CSS gaan coderen
+2. Kopieer de artboards van de [Styleguide](https://www.figma.com/design/Tox75iooqru0EvV3iLbkHw/Interface-Inventory?node-id=0-1&node-type=canvas&t=sZLKnogq564gwWdl-0) naar jullie Figma document. 
+3. Maak een ontwerp voor de verschillende huisstijl onderdelen: 
+- Bepaal de verschillende kleuren voor de huisstijl in RGB of HSL formaat en maak een voorbeeld
+- Bepaal alle typografische elementen zoals  heading, text, links, lijsten en/of tabellen en maak voorbeelden. 
+- Bepaal de formulier elementen zoasl buttons, inputs, select en radio's
+
+
+### Gedeelde Stylesheet maken
+
+Op basis van de Styleguide gaan jullie een gezamenlijke stylesheet maken. 
+Jullie gaan als team 1 stylesheet maken met de basis elementen van de huisstijl zoals de kleuren, typografie en formulier elementen.  
+Zo zorg je ervoor dat de verschillende website de huisstijl consistent wordt toegepast. 
+
+1. Slechts één teamlid forkt de repo 'Look and Feel - Styleguide' voor deze opdracht. Deze persoon voegt de teamleden toe als 'Collaborators': Ga naar de settings van de repository, klik op collaborators en voeg de GitHub accounts van de overige teamleden toe.
+2. Nu kunnen alle teamleden samenwerken op die repository, door deze allemaal te clonen (downloaden). Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun aanpassingen en wijzigingen committen en pushen naar jullie gezamenlijke repository. 
+3. Ontwerp en maak voor de basis onderdelen van de huisstijl een voorbeeld in CSS 
+    - Gebruik de HTML die al klaar staat in de styleguide
+    - Definieer de CSS voor de huisstijl onderdelen, overleg met het team hoe jullie de CSS classes gaan noemen. 
     - Schrijf uitleg over hoe de huisstijl onderdelen wel en niet gebruikt mogen worden.
-    - Toon de code van het onderdeel, zodat een frontender het voorbeeld makkelijk kan gebruiken
-4. Verzamel alle onderdelen in een website, dit wordt jullie living styleguide voor de opdracht van de opdrachtgever.
-
-
-https://github.com/fdnd-task/look-and-feel-styleguide
-
-
 
 ### Bronnen
 
@@ -124,4 +137,3 @@ https://github.com/fdnd-task/look-and-feel-styleguide
 Voorbeelden van een Styleguides:
 - [Decathlon Design System](https://www.decathlon.design/726f8c765/p/75e137-digital-overview) 
 - [Familysearch Styleguide](https://www.familysearch.org/frontier/styleguide/)
-
