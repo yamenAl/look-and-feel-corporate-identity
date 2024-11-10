@@ -63,7 +63,7 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
  6. Bespreek de interface inventory met een mento, zodat jullie een goed beeld krijgen van de verschillende onderdelen die in gebruik zijn.
 
 ![](interface-inventory-buttons-brad-frost.jpg)
-*Voorbeeld van een Interface inventory van alle buttons die gebruikt worden op een bank website.*
+*Voorbeeld van een Interface inventory van alle buttons die gebruikt worden op een bank website. Voorbeeld van [Interface Inventory van Brad Frost](https://bradfrost.com/blog/post/interface-inventory/)*
 
 <!--
 #### interface inventory template
@@ -100,14 +100,14 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
 ### Styleguide samenstellen
 
 Nu je een inventarisatie hebt gemaakt van alle onderdelen kunnen jullie een styleguide maken. 
-Bepaal voor de basiselementen kleur, typografie en formulier onderdelen hoe die eruit moeten zien en maak daar een gezamenlijke stylesheet voor, door deze stappen te volgen:
+Bepaal voor de basiselementen kleur, typografie en formulier onderdelen hoe die eruit moeten zien, door deze stappen te volgen:
 
 1. Bespreek het verzamelde materiaal uit de _interface inventory_ en onderzoek of je overeenkomsten kunt ontdekken tussen de verschillende huisstijl onderdelen.
-2. Kopieer de artboards van de [Styleguide](https://www.figma.com/design/Tox75iooqru0EvV3iLbkHw/Interface-Inventory?node-id=0-1&node-type=canvas&t=sZLKnogq564gwWdl-0) naar jullie Figma document. 
+2. Kopieer de artboards van de [Styleguide template](https://www.figma.com/design/Tox75iooqru0EvV3iLbkHw/Interface-Inventory?node-id=9-5&node-type=canvas&t=EdEg1vNpxJgTyUlm-0) naar jullie Figma document. 
 3. Maak een ontwerp voor de verschillende huisstijl onderdelen: 
-- Bepaal de verschillende kleuren voor de huisstijl in RGB of HSL formaat en maak een voorbeeld
-- Bepaal alle typografische elementen zoals headings, text, links, lijsten en/of tabellen en maak voorbeelden. 
-- Bepaal de formulier elementen zoals buttons, inputs, selects en radio's
+- Bepaal de verschillende kleuren voor de huisstijl in RGB of HSL formaat, maak een voorbeeld en schrijf een korte uitleg.
+- Bepaal alle typografische elementen zoals headings, text, links, lijsten en/of tabellen, maak voorbeelden en schrijf een korte uitleg.
+- Bepaal de formulier elementen zoals buttons, inputs, selects en radio's, maak voorbeelden en schrijf een korte uitleg.
 
 
 ### Gedeelde Stylesheet maken
@@ -118,7 +118,7 @@ Zo zorg je ervoor dat op verschillende websites de huisstijl consistent wordt to
 
 1. Slechts één teamlid forkt de repo 'Look and Feel - Styleguide' voor deze opdracht. Deze persoon voegt de teamleden toe als 'Collaborators': Ga naar de settings van de repository, klik op collaborators en voeg de GitHub accounts van de overige teamleden toe.
 2. Nu kunnen alle teamleden samenwerken op die repository, door deze allemaal te clonen (downloaden). Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun aanpassingen en wijzigingen committen en pushen naar jullie gezamenlijke repository. 
-3. Hernoem het CSS file `projectnaam.css` naar jouw opdrachtgever (`red-pers.css`, `dda.css`, etc.). Hier gaan jullie de CSS schrijven voor de huisstijl. Het begin van de HTML krijgen jullie van ons.
+3. Hernoem het CSS file `projectnaam.css` naar jouw opdrachtgever (`red-pers.css`, `dda.css`, etc.). Hier gaan jullie de CSS schrijven voor de huisstijl. Het begin van de HTML staat al klaar.
 4. Ontwerp en maak de CSS voor de huisstijl onderdelen, overleg met het team hoe jullie de CSS classes gaan noemen. Schrijf de afspraken over bijvoorbeeld classnames en code conventies op het whiteboard.
 5. Zet de gezamenlijke stylesheet live door de repo te publiceren met GitHub pages. 
 6. Gebruik de gezamenlijke stylesheet in je eigen project en pas je code aan, zodat je de nieuwe classes gebruikt. Jouw CSS zal kleiner worden, omdat een deel al in de gezamenlijke stylesheet staat.
