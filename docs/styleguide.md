@@ -1,4 +1,4 @@
-# Look and Feel - Corporate identity
+# Look and Feel - Corporate Identity
 
 ## Styleguide
 
@@ -30,29 +30,30 @@ Daarbinnen components
 ### Huisstijl
 
 Een huisstijl is de visuele identiteit van een organisatie. Het symbolische gedeelte van de bedrijfsidentiteit.
-Hieronder vallen naam, beeldmerk, kleuren, typografie (lettertype), vormentaal (stramienen/ vlakken/ curves/ opmaak) en fotografiestijl.
+Hieronder vallen naam, beeldmerk, kleuren, typografie (lettertype), vormentaal (stramienen/vlakken/curves/opmaak) en fotografiestijl.
 
 ![](fdnd-huisstijl.png)
 *De huisstijl van FDND bestaat uit verschillende kleuren, vormen, typografie en gebruik van beeldmateriaal.*
 
 Waarom heeft een bedrijf/instelling/organisatie een huisstijl nodig?
-Het zorgt voor herkenbaarheid en het geeft de gebruiker een ervaring. Het laat zien wat de gebruiker/bezoeker kan verwachten, als de visuele eigenschappen van een identiteit consistent worden vormgegeven, onstaat er vertrouwen bij de gebruiker.
+Het zorgt voor herkenbaarheid en het geeft de gebruiker een ervaring. Het laat zien wat de gebruiker/bezoeker kan verwachten. Als de visuele eigenschappen van een identiteit consistent worden vormgegeven, onstaat er vertrouwen bij de gebruiker.
 
 ### Huisstijlen toepassen met behulp van een Styleguide
-Een frontender moet in staat zijn om een huisstijl goed toe te passen. Om dit te bereiken, moet je eerst een huisstijl analyseren: Wat zijn de eigenschappen van de huisstijl en hoe hebben ze vorm gekregen? Hoe gedragen deze eigenschappen zich?Wat is het idee erachter?
 
-Een styleguide is essentieel voor het begrijpen en toepassen van een huisstijl. Eens styleguide geeft voorbeelden en uitleg over hoe iets eruit moet zien. Een styleguide helpt bij het ontwerpen en bouwen van een website zodat de verschillende elementen consistent worden toegepast.
+Een frontender moet in staat zijn om een huisstijl goed toe te passen. Om dit te bereiken, moet je eerst een huisstijl analyseren: Wat zijn de eigenschappen van de huisstijl en hoe hebben ze vorm gekregen? Hoe gedragen deze eigenschappen zich? Wat is het idee erachter?
+
+Een styleguide is essentieel voor het begrijpen en toepassen van een huisstijl. Een styleguide geeft voorbeelden en uitleg over hoe iets eruit moet zien. Een styleguide helpt bij het ontwerpen en bouwen van een website, zodat de verschillende elementen consistent worden toegepast.
 
 ![](fdnd-styleguide-1.png)
 *In de styleguide van FDND staat uitgelegd hoe de vormen en kleuren moeten worden toegepast.*
 
-> Style guides are an important tool for web development today, especially in large, complex web applications. They help document styles and patterns, keep designers and developers in sync, and greatly help to organize and distill complex interfaces. (<cite>[Lambert, 2016](https://www.smashingmagazine.com/2016/05/creating-a-living-style-guide-case-study/))
+> Style guides are an important tool for web development today, especially in large, complex web applications. They help document styles and patterns, keep designers and developers in sync, and greatly help to organize and distill complex interfaces. ([Lambert, 2016](https://www.smashingmagazine.com/2016/05/creating-a-living-style-guide-case-study/))
 
 ## Aanpak
 
 In de analysefase breng je in kaart hoe het zit met de huidige uitingen van de opdrachtgever en welke huisstijl onderdelen in gebruik zijn. Het resultaat is een *interface inventory*. 
 
-Daarna gaan jullie de styleguide samenstellen door te bespreken hoe de huisstijl onderdelen er uit zien en hoe ze in HTML en CSS gemaakt moeten worden.
+Daarna gaan jullie de styleguide samenstellen door te bespreken hoe de huisstijl onderdelen er uit zien, en hoe ze in HTML en CSS gemaakt moeten worden.
 
 ### Interface inventory
 
@@ -60,7 +61,7 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
  
  1. Julllie gaan met de studenten die dezelfde opdracht hebben de onderdelen van de huisstijl verzamelen in het Figma ontwerp. 
  2. Kopieer de artboards van de [Interface Inventory template](https://www.figma.com/design/Tox75iooqru0EvV3iLbkHw/Interface-Inventory?node-id=0-1&node-type=canvas&t=sZLKnogq564gwWdl-0) naar jullie Figma document. 
- 3. Neem screenshots van alle huisstijl onderdelen die in gebruik zijn en verzamel ze in de juiste categorieen. Jullie voeren de analyse uit op de oorspronkelijke huisstijl en alle gemaakte projecten voor de opdrachtgever.
+ 3. Neem screenshots van alle huisstijl onderdelen die in gebruik zijn en verzamel ze in de juiste categorieën. Jullie voeren deze analyse uit op de oorspronkelijke huisstijl en alle gemaakte projecten voor de opdrachtgever, zodat jullie een goed beeld krijgen van de verschillende onderdelen die in gebruik zijn.
  4. Bespreek de interface inventory met een mentor.
 
 ![](interface-inventory-buttons-brad-frost.jpg)
