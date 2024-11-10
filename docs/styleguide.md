@@ -100,28 +100,28 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
 ### Styleguide samenstellen
 
 Nu je een inventarisatie hebt gemaakt van alle onderdelen kunnen jullie een styleguide maken. 
-Bepaal voor de basis elementen kleur, typografie en formulie onderdelen hoe die eruit moeten zien en maak daar een gezamenlijke stylesheet voor. 
+Bepaal voor de basiselementen kleur, typografie en formulier onderdelen hoe die eruit moeten zien en maak daar een gezamenlijke stylesheet voor, door deze stappen te volgen:
 
 1. Bespreek het verzamelde materiaal uit de _interface inventory_ en onderzoek of je overeenkomsten kunt ontdekken tussen de verschillende huisstijl onderdelen.
 2. Kopieer de artboards van de [Styleguide](https://www.figma.com/design/Tox75iooqru0EvV3iLbkHw/Interface-Inventory?node-id=0-1&node-type=canvas&t=sZLKnogq564gwWdl-0) naar jullie Figma document. 
 3. Maak een ontwerp voor de verschillende huisstijl onderdelen: 
 - Bepaal de verschillende kleuren voor de huisstijl in RGB of HSL formaat en maak een voorbeeld
-- Bepaal alle typografische elementen zoals  heading, text, links, lijsten en/of tabellen en maak voorbeelden. 
-- Bepaal de formulier elementen zoasl buttons, inputs, select en radio's
+- Bepaal alle typografische elementen zoals headings, text, links, lijsten en/of tabellen en maak voorbeelden. 
+- Bepaal de formulier elementen zoals buttons, inputs, selects en radio's
 
 
 ### Gedeelde Stylesheet maken
 
 Op basis van de styleguide gaan jullie een gezamenlijke stylesheet maken. 
-Jullie gaan als team 1 stylesheet maken met de basis elementen van de huisstijl zoals de kleuren, typografie en formulier elementen.  
-Zo zorg je ervoor dat de verschillende website de huisstijl consistent wordt toegepast. 
+Jullie gaan als team 1 stylesheet maken met de basis elementen van de huisstijl zoals de kleuren, typografie en formulier elementen.
+Zo zorg je ervoor dat op verschillende websites de huisstijl consistent wordt toegepast.
 
 1. Slechts één teamlid forkt de repo 'Look and Feel - Styleguide' voor deze opdracht. Deze persoon voegt de teamleden toe als 'Collaborators': Ga naar de settings van de repository, klik op collaborators en voeg de GitHub accounts van de overige teamleden toe.
 2. Nu kunnen alle teamleden samenwerken op die repository, door deze allemaal te clonen (downloaden). Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun aanpassingen en wijzigingen committen en pushen naar jullie gezamenlijke repository. 
-3. Hernoem het css file projectnaam.css naar jouw opdrachtgever (red-pers.css of dda.css). Hier gaan jullie de CSS schrijven voor de huisstijl. 
-4. Ontwerp en maak voor onderdelen de CSS voor de huisstijl onderdelen, overleg met het team hoe jullie de CSS classes gaan noemen. 
-5. Zet de gezamenlijke stylesheet live door de repo te publiceren met Github pages. 
-6. Gebruik de gezamenlijke stylesheet in je eigen project en schrijf nieuwe code. Jouw CSS gaat veranderen omdat een deel in de gezamenlijke stylesheet staat.
+3. Hernoem het CSS file `projectnaam.css` naar jouw opdrachtgever (`red-pers.css`, `dda.css`, etc.). Hier gaan jullie de CSS schrijven voor de huisstijl. Het begin van de HTML krijgen jullie van ons.
+4. Ontwerp en maak de CSS voor de huisstijl onderdelen, overleg met het team hoe jullie de CSS classes gaan noemen. 
+5. Zet de gezamenlijke stylesheet live door de repo te publiceren met GitHub pages. 
+6. Gebruik de gezamenlijke stylesheet in je eigen project en pas je code aan, zodat je de nieuwe classes gebruikt. Jouw CSS zal kleiner worden, omdat een deel al in de gezamenlijke stylesheet staat.
 7. Zorg dat jullie veranderingen in de styleguide bijhouden met issues, zodat iemand uit het team het kan aanpassen. 
 
 ### Bronnen
