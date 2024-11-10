@@ -56,16 +56,17 @@ Daarna gaan jullie de styleguide samenstellen door te bespreken hoe de huisstijl
 
 ### Interface inventory
 
-Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaakte websites. Het resultaat is een *interface inventory*, een verzameling van alle gemaakte interface elementen.
+Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaakte websites. Het resultaat is een *interface inventory*, een verzameling van alle gemaakte interface elementen zoals typografie, images, media, buttons en andere formulier elementen.
  
  1. Julllie gaan met de studenten die dezelfde opdracht hebben de onderdelen van de huisstijl verzamelen in het Figma ontwerp. 
- 2. Zet een template op met categorieen om de onderdelen te verzamelen, gebruik hiervoor de [interface-inventory-template](#interface-inventory-template)
+ 2. Kopieer de artboards van de [Interface Inventory template](https://www.figma.com/design/Tox75iooqru0EvV3iLbkHw/Interface-Inventory?node-id=0-1&node-type=canvas&t=sZLKnogq564gwWdl-0) naar jullie Figma document. 
  3. Neem screenshots van alle huisstijl onderdelen die in gebruik zijn en verzamel ze in de juiste categorieen. Jullie voeren de analyse uit op de oorspronkelijke huisstijl en alle gemaakte projecten voor de opdrachtgever.
  4. Bespreek de interface inventory met een mentor.
 
 ![](interface-inventory-buttons-brad-frost.jpg)
 *Voorbeeld van een Interface inventory van alle buttons die gebruikt worden op een bank website.*
 
+<!--
 #### interface inventory template
 
 - Typography
@@ -95,7 +96,7 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
     - Carousels
     - Accordions
 - ...
-
+-->
 
 ## Styleguide samenstellen
 
