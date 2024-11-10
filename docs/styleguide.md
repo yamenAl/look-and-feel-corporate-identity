@@ -63,6 +63,9 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
  3. Neem screenshots van alle huisstijl onderdelen die in gebruik zijn en verzamel ze in de juiste categorieen. Jullie voeren de analyse uit op de oorspronkelijke huisstijl en alle gemaakte projecten voor de opdrachtgever.
  4. Bespreek de interface inventory met een mentor.
 
+![](interface-inventory-buttons-brad-frost.jpg)
+*Voorbeeld van een Interface inventory van alle buttons die gebruikt worden op een bank website.*
+
 #### interface inventory template
 
 - Typography
