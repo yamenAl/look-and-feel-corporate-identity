@@ -63,7 +63,7 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
  6. Bespreek de interface inventory met een mento, zodat jullie een goed beeld krijgen van de verschillende onderdelen die in gebruik zijn.
 
 ![](interface-inventory-buttons-brad-frost.jpg)
-*Voorbeeld van een Interface inventory van alle buttons die gebruikt worden op een bank website. Voorbeeld van [Interface Inventory van Brad Frost](https://bradfrost.com/blog/post/interface-inventory/)*
+*Voorbeeld van een Interface inventory van alle buttons die gebruikt worden op een bank website. Uit van [Interface Inventory van Brad Frost](https://bradfrost.com/blog/post/interface-inventory/)*
 
 <!--
 #### interface inventory template
