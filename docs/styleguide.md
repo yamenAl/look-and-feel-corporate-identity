@@ -61,9 +61,9 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
  
  1. Julllie gaan met de studenten die dezelfde opdracht hebben de onderdelen van de huisstijl verzamelen in het Figma document van de opdrachtgever.
  2. Kopieer de artboards van de [Interface Inventory template](https://www.figma.com/design/Tox75iooqru0EvV3iLbkHw/Interface-Inventory?node-id=0-1&node-type=canvas&t=sZLKnogq564gwWdl-0) naar jullie Figma document. 
- 3. Maak per categorie van de Interface inventory screenshots van jullie gemaakte websites
- 4. Doe hetzelfde op basis van het aangeleverde ontwerp
- 5. Doe hetzelfde op basis van de door julli egenaakte Figma ontwerpen
+ 3. Maak per categorie van de Interface Inventory screenshots van die onderdelen op de door jullie gemaakte websites (het kan zijn dat niet alle categorieën voorkomen)
+ 4. Doe hetzelfde per categorie met het aangeleverde ontwerp van de opdrachtgever
+ 5. Doe hetzelfde per categorie met de door jullie gemaakte Figma ontwerpen
  6. Bespreek de interface inventory met een mento, zodat jullie een goed beeld krijgen van de verschillende onderdelen die in gebruik zijn.
 
 ![](interface-inventory-buttons-brad-frost.jpg)
