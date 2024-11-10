@@ -119,7 +119,7 @@ Zo zorg je ervoor dat op verschillende websites de huisstijl consistent wordt to
 1. Slechts één teamlid forkt de repo 'Look and Feel - Styleguide' voor deze opdracht. Deze persoon voegt de teamleden toe als 'Collaborators': Ga naar de settings van de repository, klik op collaborators en voeg de GitHub accounts van de overige teamleden toe.
 2. Nu kunnen alle teamleden samenwerken op die repository, door deze allemaal te clonen (downloaden). Alle teamleden kunnen nu op hun eigen computer onderdelen van de website coderen, en hun aanpassingen en wijzigingen committen en pushen naar jullie gezamenlijke repository. 
 3. Hernoem het CSS file `projectnaam.css` naar jouw opdrachtgever (`red-pers.css`, `dda.css`, etc.). Hier gaan jullie de CSS schrijven voor de huisstijl. Het begin van de HTML krijgen jullie van ons.
-4. Ontwerp en maak de CSS voor de huisstijl onderdelen, overleg met het team hoe jullie de CSS classes gaan noemen. 
+4. Ontwerp en maak de CSS voor de huisstijl onderdelen, overleg met het team hoe jullie de CSS classes gaan noemen. Schrijf de afspraken over bijvoorbeeld classnames en code conventies op het whiteboard.
 5. Zet de gezamenlijke stylesheet live door de repo te publiceren met GitHub pages. 
 6. Gebruik de gezamenlijke stylesheet in je eigen project en pas je code aan, zodat je de nieuwe classes gebruikt. Jouw CSS zal kleiner worden, omdat een deel al in de gezamenlijke stylesheet staat.
 7. Zorg dat jullie veranderingen in de styleguide bijhouden met issues, zodat iemand uit het team het kan aanpassen. 
