@@ -89,7 +89,6 @@ Bepaal voor de basiselementen kleur, typografie en formulier elementen hoe die e
 - Bepaal alle typografische elementen zoals headings, text, links, lijsten en/of tabellen, ontwerp voorbeelden en schrijf een korte uitleg.
 - Bepaal de formulier elementen zoals buttons, inputs, selects en radio's, ontwerp voorbeelden en schrijf een korte uitleg.
 
-
 ### Gedeelde Stylesheet maken
 
 Op basis van de styleguide gaan jullie een gezamenlijke stylesheet maken. 
@@ -112,6 +111,6 @@ Zo zorg je ervoor dat op verschillende websites de huisstijl consistent wordt to
 - [What is a style guide and how to create one?](https://www.figma.com/resource-library/what-is-a-style-guide/)
 - [Interface Inventory](https://bradfrost.com/blog/post/interface-inventory/)
 
-Voorbeelden van een Styleguides:
+Voorbeelden van Styleguides:
 - [Decathlon Design System](https://www.decathlon.design/726f8c765/p/75e137-digital-overview) 
 - [Familysearch Styleguide](https://www.familysearch.org/frontier/styleguide/)
