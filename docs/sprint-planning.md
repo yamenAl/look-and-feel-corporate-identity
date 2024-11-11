@@ -16,7 +16,7 @@ Fork en Clone deze leertaak en koppel het Project Board uit de vorige sprint aan
 
 Bekijk het programma van Sprint 4 en neem de belangrijke momenten en opdrachten uit het programma op in je Project Board, zoals de code/design reviews en de opdrachten die op het programma staan
 
-Schrijf elke sprint nieuwe code, ook al blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven. Wacht nog even met je CSS ... deze sprint ga je met een team een gedeeld CSS bestand maken en gebruiken.
+Schrijf elke sprint nieuwe code, ook al blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven.
 
 #### 2. Sprint Review bespreken
 
