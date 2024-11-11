@@ -1,4 +1,4 @@
-# Look and Feel - Corporate identity
+# Look and Feel - Corporate Identity
 
 ## Code/Design Review
 
