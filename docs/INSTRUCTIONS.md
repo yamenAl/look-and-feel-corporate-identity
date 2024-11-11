@@ -26,6 +26,7 @@ Deze sprint worden verschillende workshops aangeboden:
 - [Typografie en EM](typografie-en-em.md)
 - [Formulieren](formulieren.md)
 - [Code/Design review](code-design-review.md)
+- [Layout en compositie](layout-en-compositie.md)
 
 
 ## Definition of done
