@@ -14,7 +14,8 @@ Je leert hoe je een huisstijl kan toepassen en hoe je een styleguide kan ontwerp
 
 Deze leertaak wordt behandeld in Sprint 4. 
 
-Nadat je eerst de Sprint Planning hebt gedaan, ga je met de studenten die dezelfde opdracht hebben een *styleguide* samenstellen. Het doel is dat jullie een gedeelde stylesheet gaan maken op basis van de huisstijl die je gaat gebruiken in je eigen project.
+Nadat je eerst de Sprint planning hebt gedaan, ga je met de studenten die dezelfde opdracht hebben een *styleguide* samenstellen. 
+Het doel is dat jullie gezamenlijk een gedeelde stylesheet gaan maken om te gebruiken in je eigen project.
 
 Deze sprint worden verschillende workshops aangeboden:
 
@@ -32,6 +33,7 @@ Deze sprint worden verschillende workshops aangeboden:
 Deze opdracht is done als:
 
 - [ ] De website staat op GitHub en heeft een live url
+- [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Journal
+- [ ] Je hebt met een team een styleguide ontworpen en gemaakt
 - [ ] Jouw website voldoet aan de huisstijl van de opdrachtgever
 - [ ] Jouw website maakt gebruik van de stylesheet uit de styleguide
-- [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Journal
