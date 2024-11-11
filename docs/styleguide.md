@@ -4,28 +4,7 @@
 
 Ontwerp en maak op basis van de huisstijl een *styleguide* voor een opdrachtgever.
 
-<!-- 
-DOEL: Die maandag wil je ze in Figma dingen laten doen toch?
-Dat is/wordt de styleguide workshop 
 
-Inventory
-Template/sjabloon 'invullen' 
-Dus als er iets niet is moet je dit zelf gaan bedenken en vormgeven
-
-Styleguide: Figma file met onderdelen van componenten
-De HTML voor de componenten, met CSS classes, custom props of anders...
-Uiteindelijk: 1 stylesheet in een gezamenlijke repo die studenten met dezelfde opdrachtgever gebruiken in hun eigen project
-
-Template in FIGMA voor de styleguide
-8 artbooards en de bijhordende HTML klaarzetten in de leertaak. Styleguide.html. 
-Studenten gaan zelf een stylesheet maken. 
-Deze komt op 1 plek te staan
-
-Maak een nieuwe page, noem deze "styleguide"
-Maak/vul frame/artboard (form, typo, kleur, afbeeldingen, ....)
-Daarbinnen components
-
--->
 
 ### Huisstijl
 
@@ -57,13 +36,14 @@ Je begint met het in kaart brengen van alle onderdelen van de huisstijl en gemaa
  
  1. Jullie gaan met de studenten die dezelfde opdracht hebben de onderdelen van de huisstijl verzamelen in het Figma document van de opdrachtgever.
  2. Kopieer de artboards van de [Interface Inventory template](https://www.figma.com/design/Tox75iooqru0EvV3iLbkHw/Interface-Inventory?node-id=0-1&node-type=canvas&t=sZLKnogq564gwWdl-0) naar jullie Figma document. 
- 3. Maak per categorie van de Interface Inventory screenshots van die onderdelen op de door jullie gemaakte websites (het kan zijn dat niet alle categorieën voorkomen)
- 4. Doe hetzelfde per categorie met het aangeleverde ontwerp van de opdrachtgever
- 5. Doe hetzelfde per categorie met de door jullie gemaakte Figma ontwerpen
- 6. Bespreek de interface inventory met een mento, zodat jullie een goed beeld krijgen van de verschillende onderdelen die in gebruik zijn.
+ 3. Verzamel per categorie van de Interface Inventory alle gemaakte en gebruikte stijlen:
+ - Maak screenshots van alle onderdelen van de websites die jullie hebben gemaakt
+ - Maak screenshots van alle onderdelen van het aangeleverde ontwerp van de opdrachtgever
+ - Maak screenshots van alle onderdelen van de door jullie gemaakte Figma ontwerpen
+ 4. Bespreek de interface inventory met een mento, zodat jullie een goed beeld krijgen van de verschillende onderdelen die in gebruik zijn.
 
 ![](interface-inventory-buttons-brad-frost.jpg)
-*Voorbeeld van een Interface inventory van alle buttons die gebruikt worden op een bank website. Uit van [Interface Inventory van Brad Frost](https://bradfrost.com/blog/post/interface-inventory/)*
+*Voorbeeld van een Interface inventory van alle buttons die gebruikt worden op een bank website. Bron [Interface Inventory van Brad Frost](https://bradfrost.com/blog/post/interface-inventory/)*
 
 <!--
 #### interface inventory template
