@@ -1,0 +1,16 @@
+/* Specificity */
+
+h2{
+    color: purple;
+}
+.green {
+    color: green;
+}
+#heading {
+    color: yellow;
+}
+
+
+
+
+
