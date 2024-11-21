@@ -9,7 +9,9 @@ h2{
 #heading {
     color: yellow;
 }
-
+.heading-medium {
+    color: rgb(5, 249, 49);
+}
 
 
 
