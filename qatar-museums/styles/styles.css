@@ -29,26 +29,26 @@ main {
 .grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px; /* Add space between photos */
+  gap: 10px;
   justify-content: center;
 }
 
 .grid img {
-  width: calc(20% - 10px); /* Five photos per row */
+  width: calc(20% - 10px);
   height: auto;
   object-fit: cover;
-  border-radius: 10px; /* Fixed invalid value */
+  border-radius: 10px;
+  cursor: pointer;
 }
-
 @media (max-width: 768px) {
   .grid img {
-    width: calc(50% - 10px); /* Two photos per row on tablets */
+    flex: 1 1 calc(50% - 10px); /* Two photos per row on tablets */
   }
 }
 
 @media (max-width: 480px) {
   .grid img {
-    width: calc(100% - 10px); /* One photo per row on smaller screens */
+    flex: 1 1 calc(100% - 10px); /* One photo per row on smaller screens */
   }
 }
 ul {	
@@ -206,6 +206,51 @@ footer {
 
 
 /* When dragging, show grabbing cursor */
-.scroll-container.grabbing {
-  cursor: grabbing;
+.popup {
+  display: none; /* Hidden by default */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  z-index: 1000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-content {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  position: relative;
+  max-width: 400px;
+  width: 90%;
+}
+
+.popup-content img {
+  max-width: 300px; /* Maximum width */
+  max-height: 300px; /* Maximum height */
+  width: auto; /* Maintain aspect ratio */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Align properly */
+  margin: 0 auto 15px auto; /* Center the image */
+  object-fit: contain; /* Ensure the image fits without cropping */
+  border-radius: 8px; /* Rounded corners */
+}
+
+#close-popup {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#popup-text {
+  font-size: 16px;
+  margin: 0;
 }

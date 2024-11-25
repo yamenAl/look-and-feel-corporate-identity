@@ -45,8 +45,8 @@
       <div class="scroll-container">
         <div class="grid" id="photo-grid">
           <!-- Your pre-defined photos -->
-          <img class="box pottery" src="assets/photos/qatar-mus-1.jpg" alt="Photo 1">
-          <img class="box islamic" src="assets/photos/qatar-mus-2.jpg" alt="Photo 2">
+          <img class="box pottery" src="assets/photos/qatar-mus-1.jpg" alt="Photo 1" data-description="This is the description for Photo 1">
+          <img class="box islamic" src="assets/photos/qatar-mus-2.jpg" alt="Photo 2" data-description="This is the description for Photo 2">
           <img class="box tapestry" src="assets/photos/qatar-mus-9.jpg" alt="Photo 3">
           <img class="box Glass" src="assets/photos/qatar-mus-4.jpg" alt="Photo 4">
           <img class="box pottery" src="assets/photos/qatar-mus-5.jpg" alt="Photo 5">
@@ -55,6 +55,13 @@
           <img class="box glass"src="assets/photos/qatar-mus-8.jpg" alt="Photo 8">
           <img class="box islamic"src="assets/photos/qatar-mus-3.jpg" alt="Photo 9">
           <img class="box pottery"src="assets/photos/qatar-mus-10.jpg" alt="Photo 10">
+        </div>
+        <div id="popup" class="popup">
+          <div class="popup-content">
+            <span id="close-popup">&times;</span>
+            <img id="popup-image" src="" alt="Popup Image">
+            <p id="popup-text"></p>
+          </div>
         </div>
       </div>
     </main>

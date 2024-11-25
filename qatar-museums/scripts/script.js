@@ -62,3 +62,35 @@ scrollContainer.addEventListener('mousemove', (e) => {
   scrollContainer.scrollLeft = scrollLeft - walkX;
   scrollContainer.scrollTop = scrollTop - walkY;
 });
+/*test*/
+document.addEventListener('DOMContentLoaded', () => {
+  const images = document.querySelectorAll('.grid img');
+  const popup = document.getElementById('popup');
+  const popupImage = document.getElementById('popup-image');
+  const popupText = document.getElementById('popup-text');
+  const closePopup = document.getElementById('close-popup');
+
+  // Show popup with image and description
+  images.forEach(image => {
+    image.addEventListener('click', () => {
+      const description = image.getAttribute('data-description');
+      const imageUrl = image.getAttribute('src');
+
+      popupImage.src = imageUrl; // Set the popup image
+      popupText.textContent = description; // Set the popup text
+      popup.style.display = 'flex'; // Show the popup
+    });
+  });
+
+  // Hide popup when clicking the close button
+  closePopup.addEventListener('click', () => {
+    popup.style.display = 'none'; // Hide the popup
+  });
+
+  // Hide popup when clicking outside the popup content
+  window.addEventListener('click', (event) => {
+    if (event.target === popup) {
+      popup.style.display = 'none'; // Hide the popup
+    }
+  });
+});
