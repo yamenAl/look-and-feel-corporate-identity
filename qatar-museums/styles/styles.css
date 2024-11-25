@@ -27,21 +27,19 @@ main {
  
 }
 .grid {
-  position: relative; /* Enables absolute positioning for children */
-  width: 100%;
-  height: 100vh;
-  overflow: hidden; /* Prevent overflow */
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  grid-auto-rows: auto;
-  gap: 10px; /* Space between items */
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px; /* Add space between photos */
+  justify-content: center;
 }
 
 .grid img {
+  width: calc(20% - 10px); /* Five photos per row */
+  height: auto;
   object-fit: cover;
-  border-radius: 8px; /* Optional: Rounded corners */
-  transition: all 0.5s ease; /* Smooth transitions */
+  border-radius: 10px; /* Fixed invalid value */
 }
+
 @media (max-width: 768px) {
   .grid img {
     width: calc(50% - 10px); /* Two photos per row on tablets */
