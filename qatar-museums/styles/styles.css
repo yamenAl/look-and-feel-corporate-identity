@@ -27,12 +27,32 @@ main {
  
 }
 .grid {
-  display: flex;
-  flex-wrap: wrap; /* Allow the photos to wrap into multiple rows */
-  gap: 20px; /* Space between the images */
-  padding: 10px;
+  position: relative; /* Enables absolute positioning for children */
+  width: 100%;
+  height: 100vh;
+  overflow: hidden; /* Prevent overflow */
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  grid-auto-rows: auto;
+  gap: 10px; /* Space between items */
 }
 
+.grid img {
+  object-fit: cover;
+  border-radius: 8px; /* Optional: Rounded corners */
+  transition: all 0.5s ease; /* Smooth transitions */
+}
+@media (max-width: 768px) {
+  .grid img {
+    width: calc(50% - 10px); /* Two photos per row on tablets */
+  }
+}
+
+@media (max-width: 480px) {
+  .grid img {
+    width: calc(100% - 10px); /* One photo per row on smaller screens */
+  }
+}
 ul {	
   display: grid;
 	margin: 0px;
@@ -54,14 +74,6 @@ li {
   margin-right: 1em;
 }
 
-img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
-  border-radius: 8px;
-  gap: 15em;
-
-}
 
 
 .topbar {
