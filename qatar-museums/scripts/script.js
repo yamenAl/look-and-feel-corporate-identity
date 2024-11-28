@@ -2,9 +2,9 @@ function approach1Fn(className) {
   const boxes = document.querySelectorAll('.box');
   boxes.forEach(box => {
       if (box.classList.contains(className)) {
-          box.style.filter = 'none'; // Remove filter from the chosen photo
+          box.style.filter = 'none'; 
       } else {
-          box.style.filter = 'brightness(50%)'; // Apply darker filter to others
+          box.style.filter = 'brightness(50%)'; 
       }
   });
 }
@@ -12,7 +12,7 @@ function approach1Fn(className) {
 function showFn() {
   const boxes = document.querySelectorAll('.box');
   boxes.forEach(box => {
-      box.style.filter = 'none'; // Remove filters to show all photos normally
+      box.style.filter = 'none'; 
   });
 }
 
@@ -32,12 +32,12 @@ function duplicateImages() {
   });
 }
 
-// Duplicate images multiple times to ensure smooth infinite scrolling
+// Duplicate images 
 for (let i = 0; i < 10; i++) {
   duplicateImages();
 }
 
-// Drag to scroll functionality
+// Drag to scroll 
 scrollContainer.addEventListener('mousedown', (e) => {
   isDragging = true;
   startX = e.pageX - scrollContainer.offsetLeft;
@@ -57,27 +57,30 @@ scrollContainer.addEventListener('mousemove', (e) => {
   e.preventDefault();
   const x = e.pageX - scrollContainer.offsetLeft;
   const y = e.pageY - scrollContainer.offsetTop;
-  const walkX = (x - startX) * 2; // Increase scroll speed by multiplying the difference
+  const walkX = (x - startX) * 2; // Increase scroll speed 
   const walkY = (y - startY) * 2;
   scrollContainer.scrollLeft = scrollLeft - walkX;
   scrollContainer.scrollTop = scrollTop - walkY;
 });
 /*test*/
 document.addEventListener('DOMContentLoaded', () => {
-  const images = document.querySelectorAll('.grid img');
-  const popup = document.getElementById('popup');
-  const popupImage = document.getElementById('popup-image');
-  const popupText = document.getElementById('popup-text');
-  const closePopup = document.getElementById('close-popup');
+  const images = document.querySelectorAll('.grid img'); // Select all images
+  const popup = document.getElementById('popup'); // Popup container
+  const popupImage = document.getElementById('popup-image'); // Popup image element
+  const popupText = document.getElementById('popup-text'); // Popup description
+  const closePopup = document.getElementById('close-popup'); // Close button
 
-  // Show popup with image and description
+  // Hide popup initially
+  popup.style.display = 'none';
+
+  // Show popup when an image is clicked
   images.forEach(image => {
     image.addEventListener('click', () => {
-      const description = image.getAttribute('data-description');
+      const description = image.getAttribute('data-description') || 'No description available';
       const imageUrl = image.getAttribute('src');
 
-      popupImage.src = imageUrl; // Set the popup image
-      popupText.textContent = description; // Set the popup text
+      popupImage.src = imageUrl; // Set popup image
+      popupText.textContent = description; // Set popup description
       popup.style.display = 'flex'; // Show the popup
     });
   });
@@ -88,7 +91,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Hide popup when clicking outside the popup content
-  window.addEventListener('click', (event) => {
+  popup.addEventListener('click', (event) => {
     if (event.target === popup) {
       popup.style.display = 'none'; // Hide the popup
     }
