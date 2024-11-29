@@ -81,19 +81,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
       popupImage.src = imageUrl; // Set popup image
       popupText.textContent = description; // Set popup description
-      popup.style.display = 'flex'; // Show the popup
+      popup.style.display = 'flex'; 
     });
   });
 
   // Hide popup when clicking the close button
   closePopup.addEventListener('click', () => {
-    popup.style.display = 'none'; // Hide the popup
+    popup.style.display = 'none'; 
   });
 
-  // Hide popup when clicking outside the popup content
-  popup.addEventListener('click', (event) => {
-    if (event.target === popup) {
-      popup.style.display = 'none'; // Hide the popup
-    }
-  });
+
 });
