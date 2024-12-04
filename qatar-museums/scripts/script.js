@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       popupImage.src = imageUrl; // Set popup image
       popupText.textContent = description; // Set popup description
-      popup.style.display = 'flex'; 
+      popup.style.display = 'flex';                       
     });
   });
 
