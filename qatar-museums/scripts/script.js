@@ -92,3 +92,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 });
+//11-12
+// Stap 1: zoek de input en stop die in een variabele
+
+let inputElement = document.querySelector('input');
+
+inputElement.addEventListener('invalid', function(ev) {
+
+  // Stap 3: pas de tekst in de validatiemelding aan
+  inputElement.setCustomValidity('Dit veld mag niet leeg zijn hoor..');
+
+});
+
